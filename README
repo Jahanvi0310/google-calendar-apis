@@ -1,0 +1,6 @@
+1. Generate OAuth credentials.
+2. Save to credentials.json
+3. Generate authUrl for authorization.
+4. Store auth tokens.
+5. Check auth tokens are not expired.
+6. Fetch all the events.
